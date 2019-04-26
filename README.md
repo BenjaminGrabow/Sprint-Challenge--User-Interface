@@ -37,7 +37,7 @@ Edit this document to include your answers after each question. Make sure to lea
 Semantic elements are elements with a meaning.
 A semantic element describes its meaning to the browser and the developer.
 Examples of semantic elements would be : <nav> , <article>, <footer>
-<header> - Because they are defines its content.
+<header> - Because they are definegi its content.
 Examples of non-semantic elements would be: <div> and <span> - Because they are telling us nothing about its content.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
