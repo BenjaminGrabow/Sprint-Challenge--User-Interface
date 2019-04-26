@@ -85,8 +85,9 @@ header {
  header nav a {
      text-decoration: none;
      color: black;
-     font-weight: 600;
-     margin-right: 71px;
+     font-size: small;
+     font-weight: 650;
+     margin-right: 80gipx;
  }
 
 .top-content {
@@ -119,12 +120,12 @@ header {
 
 /* beginning for only about.html  */
 .about-page p {
-    font-weight: 600;
+    font-weight: 550;
 
 }
 
 .about-page h2 {
-    font-weight: 600;
+    font-weight: 550;
     
 }
 
@@ -133,6 +134,10 @@ header {
     margin-bottom: 20px;
     margin: 10px 0 10px 0;
 
+}
+
+.top-container img {
+    margin-top: 10px;
 }
 
 .top-article {
