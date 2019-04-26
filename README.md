@@ -34,13 +34,40 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic elements are elements with a meaning.
+A semantic element describes its meaning to the browser and the developer.
+Examples of semantic elements would be : <nav> , <article>, <footer>
+<header> - Because they are defines its content.
+Examples of non-semantic elements would be: <div> and <span> - Because they are telling us nothing about its content.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+display: block means that the element is displayed as a block, as paragraphs and headers have always been.
+A block has some whitespace above and below it and tolerates no HTML elements next to it, except when ordered
+otherwise (by adding a float declaration to another element, for instance).
+
+display: inline means that the element is displayed inline, inside the current block on the same line.
+Only when it's between two blocks does the element form an 'anonymous block',
+that however has the smallest possible width.
 
 3. What are the 4 areas of the box model?
 
+The 4 areas are the content edge, padding edge, border edge, and margin edge.
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Items are centered in the cross-axis.
+
+
 5. Explain why git is valuable to a team of developers.
+
+Git is used to monitor and control code changes made during development across several people or teams.
+They provide a centralized, cloud-based location to store, share, publish, test,
+and collaborate on web development projects. 
+GitHub has added a staging platform that lets developers share prototypes,
+collaborate on projects, edit and build upon each others’ code,
+and give stakeholders a chance to take in-progress work on a test run.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
